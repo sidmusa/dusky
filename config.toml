@@ -1,4 +1,4 @@
-baseurl = "https://sidmusa.github.io/dusky/"
+baseurl = "http://sidmusa.github.io/dusky/"
 title = "Hugo Themes"
 copyright = "Copyright (c) 2008 - 2014, all rights reserved."
 languageCode = "en-US"
